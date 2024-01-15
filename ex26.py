@@ -1,7 +1,7 @@
 print("How old are you?", end=' ')
 age = input()
 print("How tall are you?", end=' ')
-print("How much do you weigh?", end=' '
+print("How much do you weigh?", end=' ')
 weight = input()
 
 print(f"So, you're {age} old, {height} tall and {weight} heavy.")
@@ -34,13 +34,13 @@ and requires an explanation
 \n\t\twhere there is none.
 """
 
-print("--------------)
+print("--------------")
 print(poem)
-print(--------------")
+print("--------------")
 
 
-five = 10 - 2 + 3 - 
-print(f"This should be five: {five}"
+five = 10 - 2 + 3 - 6
+print(f"This should be five: {five}")
 
 def secret_formula(started)
     jelly_beans = started * 500
